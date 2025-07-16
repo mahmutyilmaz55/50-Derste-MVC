@@ -9,6 +9,7 @@ Bu proje, MVC mimarisini öğrenmek,  ASP.NET ile uygulama geliştirme pratiği 
 ## 📌 İçerik
 
 🎈🥇 ASP.NET MVC  kullanılarak geliştirilmiştir.
+
 ✈ Ürün Ekleme,Silme,Güncelleme,Listeleme
 ☀ <img width="1916" height="950" alt="3" src="https://github.com/user-attachments/assets/f03a9cbf-eac7-4a89-b950-f4183322227e" />
 ☀ <img width="1920" height="954" alt="4" src="https://github.com/user-attachments/assets/68a6379d-ab42-4cef-95e6-70d4a4694e8b" />
