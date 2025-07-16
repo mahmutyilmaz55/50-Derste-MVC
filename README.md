@@ -24,6 +24,8 @@ Bu proje, MVC mimarisini öğrenmek,  ASP.NET ile uygulama geliştirme pratiği 
 
 ## 🎯 2. Portfolyo
 - Cv Seklinde kullanılabilecek static bir portfolyo yapılmıştır.
+  
+<img width="1900" height="955" alt="portfolio" src="https://github.com/user-attachments/assets/5861f2a7-7d0f-4f6b-a701-f0c474f4ea06" />
 
 ## 🚀🚀🚀 Proje 🚀🚀🚀
  🚖🚖 Projeyi klonlama
