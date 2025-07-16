@@ -20,6 +20,6 @@ Bu proje, MVC mimarisini öğrenmek,  ASP.NET ile uygulama geliştirme pratiği 
 - Cv Seklinde kullanılabilecek static bir portfolyo yapılmıştır.
 
 ## 🚀🚀🚀 Proje 🚀🚀🚀
-1. Projeyi klonlayın:
+ 🚖🚖 Projeyi klonlama
    ```bash
    git clone https://github.com/kullanici-adi/proje-adi.git
