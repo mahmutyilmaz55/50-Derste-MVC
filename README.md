@@ -13,6 +13,7 @@ Bu proje, MVC mimarisini öğrenmek,  ASP.NET ile uygulama geliştirme pratiği 
 - Kategori Ekleme,Silme,Güncelleme Listeleme
 - Müşteri Ekleme,Silme,Güncelleme Listeleme
 - Ürün Satış İşlemei yer alamaktadır
+<img width="1078" height="513" alt="vt" src="https://github.com/user-attachments/assets/c9072566-6dd7-4562-863d-4ce51edc6e13" />
 
 
 ## 🎯 2. Portfolyo
