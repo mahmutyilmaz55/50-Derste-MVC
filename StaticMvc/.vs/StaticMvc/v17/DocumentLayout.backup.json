@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\StaticMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|c:\\users\\pc\\source\\repos\\staticmvc\\staticmvc\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|solutionrelative:staticmvc\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|C:\\Users\\pc\\source\\repos\\StaticMvc\\staticmvc\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|solutionrelative:staticmvc\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|c:\\users\\pc\\source\\repos\\staticmvc\\staticmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|solutionrelative:staticmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|C:\\Users\\pc\\source\\repos\\StaticMvc\\staticmvc\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|solutionrelative:staticmvc\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|C:\\Users\\pc\\source\\repos\\StaticMvc\\staticmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23C9B52-B0B7-48CD-AF4A-2F4C53839357}|StaticMvc\\StaticMvc.csproj|solutionrelative:staticmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StaticMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StaticMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T15:46:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\web\\index.html",
+              "RelativeDocumentMoniker": "StaticMvc\\web\\index.html",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\web\\index.html",
+              "RelativeToolTip": "StaticMvc\\web\\index.html",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwMQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T13:30:22.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "StaticMvc\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "StaticMvc\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T13:26:42.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "StaticMvc\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "StaticMvc\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:26:16.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\web\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\web\\index.html",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\web\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\web\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-08T13:20:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StaticMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\StaticMvc\\StaticMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StaticMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:18:51.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
