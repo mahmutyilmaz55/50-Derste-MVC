@@ -19,6 +19,8 @@ Bu proje, MVC mimarisini öğrenmek,  ASP.NET ile uygulama geliştirme pratiği 
 ✈ Müşteri Ekleme,Silme,Güncelleme Listeleme
 ☀ <img width="1920" height="901" alt="5" src="https://github.com/user-attachments/assets/0070e191-3bc0-48ea-a64d-d22a2188f0cd" />
 ✈ Ürün Satış İşlemei yer alamaktadır
+<img width="1917" height="955" alt="8" src="https://github.com/user-attachments/assets/4a237cb2-7cf1-44cb-b9bf-456744b4c1b6" />
+✈ VERİTABANI DİAGRAM
 ☀ <img width="1078" height="513" alt="vt" src="https://github.com/user-attachments/assets/c9072566-6dd7-4562-863d-4ce51edc6e13" />
 
 
