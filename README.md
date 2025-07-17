@@ -32,4 +32,4 @@ Bu proje, MVC mimarisini öğrenmek,  ASP.NET ile uygulama geliştirme pratiği 
 ## 🚀🚀🚀 Proje 🚀🚀🚀
  🚖🚖 Projeyi klonlama
    ```bash
-   git clone https://github.com/kullanici-adi/proje-adi.git
+  https://github.com/mahmutyilmaz55/50-Derste-MVC.git
